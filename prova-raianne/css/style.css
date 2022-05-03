@@ -1,0 +1,37 @@
+#body{
+    background-color: rgb(26, 93, 72);
+    background-size: cover;
+    background-image:url(../img/anime.png);
+}
+#conteudo{
+    margin-top: 2%;
+    padding: 2%;
+    background-color: rgba(138, 120, 148, 0.7);
+    width: 75%;
+    margin-left: 10%;
+}
+
+h1{
+    margin-bottom: 2%;
+    
+}
+
+#titulo{
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+#saida{
+    margin-top: 10%;
+    font-family: "arial black";
+    font-size: 2.5em;
+
+
+}
+  #imagem img{
+      position: absolute;
+      right: -100px;
+      height: 200 px;
+      bottom: 0px;
+  }  
